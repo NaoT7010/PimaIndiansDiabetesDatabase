@@ -161,4 +161,5 @@ cython_debug/
 
 # add dir
 data/diabetes.csv
-.DS_Store
+*.DS_Store
+*.zip
